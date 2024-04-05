@@ -68,3 +68,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details. 
 <https://www.gnu.org/licenses/>.
 
+The program is can be downloaded at the following URL
+https://doi.org/10.5281/zenodo.10934111
+
